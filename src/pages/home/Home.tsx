@@ -27,10 +27,9 @@ function Home() {
             <h2 className="text-5xl font-bold">FarmaHome</h2>
             <p className="text-xl">Sua Farmácia em casa!</p>
           </div>
-
           <div className="flex justify-center ">
             <img
-              src="https://i.im.ge/2025/04/16/vXEsfM.Design-sem-nome-2.png"
+              src="/pharmacy.png"
               alt="Imagem Página Home"
               className="w-2/3"
             />
